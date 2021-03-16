@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://flatnote.github.io/flatnote"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of flatnote"
