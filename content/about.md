@@ -6,20 +6,43 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## EXPERIENCE
+### Bluepi — Frontend engineer
+Apr 2021 - Currently
 
-Hugo makes use of a variety of open source projects including:
+Migrate existing Jquery apps to Next Js and merge three webs with a single code baseline. Also, work with the designer and back-end developer to create new UI coordinates, as well as guide junior developers through the coding process.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+#### Hotnow thailand — Full-stack developer
+Oct 2020 - Mar 2021
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Continue to handle the existing web-app using ionic and stapi, coordinating with the Designer and PM, and guiding junior developers through the coding process.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+#### NIIT Technologies Co. Ltd Bangkok — SOFTWARE ENGINEER
+Oct 2018 - Sep 2020
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Create an internal website from scratch for SCG Chemical from the ground up using javascript libraries such as React and express.js, and set up web architecture on an AWS cloud service.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+#### Ascend Corp Co. Ltd Bangkok— JUNIOR SOFTWARE ENGINEER
+Jun 2017 - Sep 2018
+
+Maintain existing Rest api and migrate some services from IBM WebSphere to Docker using Spring Framework, as well as write unit tests and some Automate Robot Framework for API testing.
+
+## SKILLS
+#### Front-End Development
+React, Redux, Nextjs, ionic
+#### Backend-End Development
+Expressjs, GraphQL, JAVA, Spring framework, Struts framework
+#### Database ORM 
+prisma.io
+#### Database
+MySQL, Oracle, SQL Server, PostgreSQL
+#### Cloud
+AWS, GCP
+#### DevOps
+Docker, Jenkins
+#### Common
+Git, Common Linux command
+## LANGUAGE
+Thai native
+
+English communication
