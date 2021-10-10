@@ -1,9 +1,9 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "Flatnote experience, skills"
 date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+aliases = ["about-us", "contact"]
+author = "Flatnote"
 +++
 
 ## EXPERIENCE
