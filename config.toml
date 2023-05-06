@@ -23,7 +23,7 @@ title = "flatnote"
 author = "flatnote"
 #copyright = "2020-2021"
 description = "Call me Ball, I'm a full-stack web developer."
-profilePicture = "images/github-profile.jpeg"
+profilePicture = "https://www.gravatar.com/avatar/cc0f321d38fee476e614c64eb663ff18?s=512"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
