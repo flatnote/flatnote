@@ -3,7 +3,7 @@ title: "Mastering React: Building Interactive Web Apps"
 date: 2023-09-25T20:53:19+07:00
 tags: ["react", "javascript"]
 categories: ["web development"]
-draft: true
+draft: false
 ---
 
 React has taken the web development world by storm with its simplicity, flexibility, and performance. As a React developer, you have the power to create interactive web applications that engage users and deliver a seamless user experience. In this blog post, we'll explore some essential tips and best practices to help you become a master of React development.
