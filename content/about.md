@@ -7,8 +7,14 @@ author = "Flatnote"
 +++
 
 ## EXPERIENCE
-### Bluepi — Frontend engineer
-Apr 2021 - Currently
+
+### LSEG — Senior software engineer
+July 2023 - Currently
+
+Enhance the existing web-app using React and Typescript, as well as guide junior developers through the coding process.
+
+### Bluepi — Frontend engineer, Senior front-end engineer
+Apr 2021 - June 2023
 
 Migrate existing Jquery apps to Next Js and merge three webs with a single code baseline. Also, work with the designer and back-end developer to create new UI coordinates, as well as guide junior developers through the coding process.
 
